@@ -1,12 +1,10 @@
-<h1 align="left">Hey 👋 how are you?</h1>
+<h1 align="left">Eae 👋 Eu sou o João Marcos Valente</h1>
 
 ###
 
 <p align="left"></p>
 
 ###
-
-<p align="left">I'm João Marcos, student of information systems, I live in Brazil, in the state of Rio de Janeiro, in the city of Barra Mansa</p>
 
 ###
 
