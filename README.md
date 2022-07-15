@@ -52,9 +52,3 @@
 </div>
 
 
-
-###
-
-<img href="https://raw.githubusercontent.com/progjaoo/progjaoo/blob/output/snake.svg" alt="Snake animation" />
- ![Snake animation](https://github.com/progjaoo/progjaoo/blob/output/github-contribution-grid-snake.svg)
-
