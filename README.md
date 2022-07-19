@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">My social networks are</h2>
+<h2 align="left">Minhas redes sociais</h2>
 
 ###
 
